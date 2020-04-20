@@ -6,12 +6,3 @@ Comunicação com filas do Kafka em python.
 
 pip install kafka-python
 
-### Send Message
-
-from kafka import KafkaProducer
-
-### Load Message
-
-from kafka import KafkaConsumer
-
-                         
