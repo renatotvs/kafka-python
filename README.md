@@ -1,6 +1,6 @@
 # Kafk com Python #
 
-Neste arquivo Readme está documentado o que é necessário para instalar e procedimentos para comunicação com o Kafka.
+Comunicação com filas do Kafka em python.
 
 ### Instação da biblioteca Python
 
